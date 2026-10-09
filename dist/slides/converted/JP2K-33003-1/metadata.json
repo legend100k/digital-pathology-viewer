@@ -1,0 +1,25 @@
+{
+  "id": "slide-jp2k-33003-1",
+  "caseId": "CAS-APERIO-33003",
+  "slideName": "JP2K-33003-1.svs",
+  "patientId": "PT-A2819",
+  "patientAge": 58,
+  "patientGender": "Female",
+  "tissueSite": "Human Tissue Biopsy (Univ Missouri)",
+  "clinicalDiagnosis": "Infiltrating Ductal Carcinoma / Cellular Atypia",
+  "stainType": "H&E",
+  "objectiveMagnification": "40x",
+  "scanDate": "07/16/09 18:15:06",
+  "scannerModel": "Aperio ScanScope (SS1283)",
+  "dimensions": {
+    "width": 15374,
+    "height": 17497
+  },
+  "micronsPerPixel": 0.2498,
+  "dziUrl": "/slides/converted/JP2K-33003-1/slide.dzi",
+  "originalFilePath": "/slides/original/JP2K-33003-1.svs",
+  "pyramidLevels": 16,
+  "tileSize": 256,
+  "tileOverlap": 0,
+  "status": "READY"
+}
